@@ -5,10 +5,11 @@
 SUSTown, conceived in 2020 by [Wanli Zhong](https://github.com/wanlizhong) and [Yechun Ruan](https://github.com/ryyyc), is a testament to our passion for connecting the Southern University of Science and Technology (SUSTech) community from the past to future. Initially just an idea when we were less tech-savvy, it has now blossomed into a thriving platform that bridges gaps between international students, graduate students, undergraduates, faculty, and alumni.
 
 <p style="display: flex; flex-direction: row;">
-  <img src="../assests/WeChat QR Code.jpg" width="30%"/>
+  <img src="https://github.com/SUSTown/.github/blob/main/assests/WeChat%20QR%20Code.jpg?raw=true" width="30%"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="../assests/QQ QR Code.png" width="30%"/> 
+  <img src="https://github.com/SUSTown/.github/blob/main/assests/QQ%20QR%20Code.png?raw=true" width="30%"/> 
 </p>
+
 
 ### 🌐 Bridging SUSTech's Community
 
@@ -32,4 +33,4 @@ We invite you to join and use SUSTown. If you're passionate, help us build a bet
 
 SUSTown may not be perfect, but it's charming and fun in its own right. It's not just about features or content, it's about being a platform with you, me, and everyone contributing to its growth. 
 
-<img src="../assests/SUSTown Fox QR Code.png" style="zoom:30%;" align="left" />
+<img src="https://github.com/SUSTown/.github/blob/main/assests/SUSTown%20Fox%20QR%20Code.png?raw=true" width="30%;" align="left" />

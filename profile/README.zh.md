@@ -5,10 +5,11 @@
 SUSTown由[钟万里](https://github.com/wanlizhong)和[阮业淳](https://github.com/ryyyc)的构想于2020年，它的初衷是将南方科技大学（SUSTech）从过去到未来所有的师生链接起来。刚开始我们技术知识尚浅，它不过是一个想法，而现在正逐渐发展为南科大的社区平台，填补了国际生、研究生、本科生、教职员工和校友之间的鸿沟。
 
 <p style="display: flex; flex-direction: row;">
-  <img src="../assests/WeChat QR Code.jpg" width="30%"/>
+  <img src="https://github.com/SUSTown/.github/blob/main/assests/WeChat%20QR%20Code.jpg?raw=true" width="30%"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="../assests/QQ QR Code.png" width="30%"/> 
+  <img src="https://github.com/SUSTown/.github/blob/main/assests/QQ%20QR%20Code.png?raw=true" width="30%"/> 
 </p>
+
 
 ### 🌐 链接SUSTech社区
 
@@ -32,4 +33,4 @@ SUSTown不仅仅是一个平台，它是为SUSTech量身定做的解决方案。
 
 SUSTown可能并不完美，但它本身就富有魅力和乐趣。它不仅仅是关于功能或内容，它是一个包含你、我和每个人的社区平台。
 
-<img src="../assests/SUSTown Fox QR Code.png" style="zoom:30%;" align="left" />
+<img src="https://github.com/SUSTown/.github/blob/main/assests/SUSTown%20Fox%20QR%20Code.png?raw=true" width="30%;" align="left" />
