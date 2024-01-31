@@ -1,6 +1,6 @@
 ## Welcome to SUSTown 👋
 
-![](../assests/poster.jpg)
+![](https://github.com/SUSTown/.github/blob/main/assests/poster.jpg?raw=true)
 
 SUSTown, conceived in 2020 by [Wanli Zhong](https://github.com/wanlizhong) and [Yechun Ruan](https://github.com/ryyyc), is a testament to our passion for connecting the Southern University of Science and Technology (SUSTech) community from the past to future. Initially just an idea when we were less tech-savvy, it has now blossomed into a thriving platform that bridges gaps between international students, graduate students, undergraduates, faculty, and alumni.
 

@@ -1,6 +1,6 @@
 ## 欢迎来到SUSTown 👋
 
-![](../assests/poster.jpg)
+![](https://github.com/SUSTown/.github/blob/main/assests/poster.jpg?raw=true)
 
 SUSTown由[钟万里](https://github.com/wanlizhong)和[阮业淳](https://github.com/ryyyc)的构想于2020年，它的初衷是将南方科技大学（SUSTech）从过去到未来所有的师生链接起来。刚开始我们技术知识尚浅，它不过是一个想法，而现在正逐渐发展为南科大的社区平台，填补了国际生、研究生、本科生、教职员工和校友之间的鸿沟。
 
